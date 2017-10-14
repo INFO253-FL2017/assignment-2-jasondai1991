@@ -1,0 +1,92 @@
+
+body{
+	padding-top:50px;
+}
+h1{
+	margin-left:23%;
+	color: #f49842;
+	margin-top: 15%;
+	text-decoration: blink;
+	line-height: 120%;
+}
+
+h3{
+	color:#FFFFFF;
+	margin-left:17%;
+	word-spacing:5px;
+	line-height:120%;
+}
+
+
+
+.hom-btn{
+	padding: 0 20px;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	font: bold 16px/33px Arial, sans-serif;
+
+	text-shadow: 1px 1px 1px rgba(255,255,255, .22);
+
+	border-radius: 30px;
+	box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
+
+	transition: all 0.15s ease;
+	background-color: #4CAF50;
+	border:none;
+	color:white;
+	cursor:pointer;
+	position:absolute;
+	top:30px;
+	left:30px;
+}
+
+
+.foot1-btn{
+	display: inline-block;
+	position: absolute;
+	bottom: 30px;
+	left:30px;
+	cursor:pointer;
+	padding: 0 20px;
+	text-align: center;
+	text-decoration: none;
+	font: bold 16px/33px Arial, sans-serif;
+
+	text-shadow: 1px 1px 1px rgba(255,255,255, .22);
+
+	border-radius: 30px;
+
+	box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
+
+
+	transition: all 0.15s ease;
+	color: #515151;
+	background: #d3d3d3; 
+}
+
+.foot2-btn{
+	display: inline-block;
+	position: absolute;
+	bottom: 30px;
+	left:150px;
+	cursor:pointer;
+	padding: 0 20px;
+	text-align: center;
+	text-decoration: none;
+	font: bold 16px/33px Arial, sans-serif;
+
+	text-shadow: 1px 1px 1px rgba(255,255,255, .22);
+
+	border-radius: 30px;
+
+	box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
+
+
+	transition: all 0.15s ease;
+	color: #515151;
+	background: #d3d3d3; 
+}
+	
+	
+	
