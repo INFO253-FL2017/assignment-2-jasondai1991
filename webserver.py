@@ -73,8 +73,3 @@ def blog4():
 @app.route('/blog/what-productivity-systems-wont-solve')
 def blog5():
     return render_template("blog5.html")
-
-
-
-
-    """
