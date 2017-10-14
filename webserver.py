@@ -77,21 +77,4 @@ def blog5():
 
 
 
-
-"""
-@app.route('/')
-def quote_of_the_day():
-  day_of_week = request.args.get('day_of_week', 'sunday')
-  return render_template(
-    "index.html",
-    day=day_of_week,
-    quote=quote_db[day_of_week])
-
-@app.route('/',methods=['POST'])
-def return_quoto():
-  day_of_week = request.form.get('day_of_week', 'sunday')
-  return render_template(
-    "index.html",
-    day=day_of_week,
-    quote=quote_db[day_of_week])
     """
